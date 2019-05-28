@@ -31,7 +31,8 @@ navbar-links:
     - The Real Kether: "https://www.planetminecraft.com/mod/alphaforgethe-real-kether/"
     - Magic Lands Mod: "https://www.planetminecraft.com/mod/forge-magic-lands-mod-kether-20/"
   Chemistry Projects:
-    - Crystals: "crystals"
+    - Crystals:
+        - Bismuth Crystals: "bismuth_crystals"
   My github: "https://github.com/Krevik"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

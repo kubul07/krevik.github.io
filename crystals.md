@@ -33,13 +33,13 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="1.jpg">
-    <img src="/img/crystals/1.jpg" alt="Cinque Terre" width="600" height="400">
+    <img src="/img/crystals/1.jpg" alt="Copper(II) Sulfate(VI)" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Crystals made of copper cables to be precise, that's why they're slightly different than standard copper(II) sulfate(VI) crystals</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
+  <a target="_blank" href="2.jpg">
     <img src="img_forest.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
