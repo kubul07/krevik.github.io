@@ -6,6 +6,12 @@ use-site-title: true
 ---
 
 <style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: center;
+  width: 180px;
+}
 
 div.gallery:hover {
   border: 1px solid #777;
