@@ -5,6 +5,29 @@ image: /img/crystals/3.jpg
 use-site-title: true
 ---
 
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+
 <div class="gallery">
   <a target="_blank" href="https://krevik.github.io/img/crystals/1.jpg">
     <img src="/img/crystals/1.jpg" alt="Copper(II) Sulfate(VI) Crystals" width="600" height="400">
