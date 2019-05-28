@@ -11,6 +11,6 @@ My name is Krzysztof Walczak and I am interested in basically two things:
 
 What else do you need?
 
-### my history
+### My history
 
 Nothing Interesting to see here...
