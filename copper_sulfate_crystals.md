@@ -53,7 +53,7 @@ div.desc {
   <a target="_blank" href="https://krevik.github.io/img/crystals/3.jpg">
     <img src="/img/crystals/3.jpg" alt="Copper(II) Sulfate(VI) Crystals" width="600" height="400">
   </a>
-  <div class="desc">Crystals grown on a piece of rock</div>
+  <div class="desc">Crystals grown on a piece of rock with ultra-fast heat-cool method</div>
 </div>
 
 </body>
