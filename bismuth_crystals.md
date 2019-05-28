@@ -43,6 +43,6 @@ div.desc {
 ---
 Made these crystals using my household cooking stove - it's pretty simple actually. You just need
 a piece of bismuth (from aliexpress for e.g.) some metal cup, some source of fire and metal pincers.
-Melting point of bismuth is about 271 degrees celsius so it's very low. When you melt a bismuth you
-just need to wait until it cool down a bit. When surface will start getting solid, you just need to
-get this solid chunks out of the cup.
+Melting point of bismuth is about 271 degrees celsius so it's very low. When you melt bismuth you
+just need to wait until it cools down a bit. When surface will start getting solid, you just need to
+get this solid chunks out of the cup using your metal pincers.

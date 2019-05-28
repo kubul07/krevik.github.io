@@ -36,7 +36,7 @@
           <entry key="js" value="4" />
           <entry key="lock" value="1" />
           <entry key="map" value="1" />
-          <entry key="md" value="24" />
+          <entry key="md" value="25" />
           <entry key="xml" value="9" />
           <entry key="yml" value="12" />
         </counts>
@@ -48,20 +48,20 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="4" />
           <entry key="JavaScript" value="4" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="PLAIN_TEXT" value="34" />
           <entry key="XML" value="9" />
           <entry key="YAML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2281" />
+          <entry key="md" value="2549" />
           <entry key="yml" value="512" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2281" />
+          <entry key="PLAIN_TEXT" value="2549" />
           <entry key="YAML" value="512" />
         </counts>
       </usages-collector>
@@ -87,16 +87,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rings.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bismuth_crystals.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="47" column="61" selection-start-line="47" selection-start-column="61" selection-end-line="47" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copper_sulfate_crystals.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
@@ -135,10 +144,10 @@
         <option value="$PROJECT_DIR$/aboutme.md" />
         <option value="$PROJECT_DIR$/_posts_crystals/2019-05-28-first-post.md" />
         <option value="$PROJECT_DIR$/crystals.md" />
-        <option value="$PROJECT_DIR$/bismuth_crystals.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/rings.md" />
         <option value="$PROJECT_DIR$/copper_sulfate_crystals.md" />
+        <option value="$PROJECT_DIR$/bismuth_crystals.md" />
+        <option value="$PROJECT_DIR$/rings.md" />
       </list>
     </option>
   </component>
@@ -501,13 +510,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crystals.md" />
-    <entry file="file://$PROJECT_DIR$/bismuth_crystals.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-first-post.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -522,17 +524,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rings.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/copper_sulfate_crystals.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bismuth_crystals.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="47" column="61" selection-start-line="47" selection-start-column="61" selection-end-line="47" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rings.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
