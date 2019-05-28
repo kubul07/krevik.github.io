@@ -33,6 +33,7 @@ navbar-links:
   Chemistry Projects:
     - Bismuth Crystals: "bismuth_crystals"
     - Copper Sulfate Crystals: "copper_sulfate_crystals"
+    - Rings: "rings"
   My github: "https://github.com/Krevik"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
