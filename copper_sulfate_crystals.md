@@ -4,32 +4,6 @@ title: Copper Sulfate Crystals
 image: /img/crystals/3.jpg
 use-site-title: true
 ---
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
 
 <div class="gallery">
   <a target="_blank" href="https://krevik.github.io/img/crystals/1.jpg">
@@ -52,8 +26,6 @@ div.desc {
   <div class="desc">Crystals grown on a piece of rock</div>
 </div>
 
-</body>
-</html>
 ---
 Copper(II) Sulfate(VI) crystals are pretty easy to make. Even without access to reagents. You can made them using old copper wires
 (from electronics), sulfuric acid (you can easily buy it at gas station as accumulators acid), and hydrogen peroxide
