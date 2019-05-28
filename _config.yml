@@ -25,6 +25,7 @@ description: Is this my site?
 navbar-links:
   About Me: "aboutme"
   Java Projects:
+    - My Github: "https://github.com/Krevik"
     - Exp Ore: "https://www.planetminecraft.com/mod/1-13-2-exp-ore-block-mod/"
     - Kathairis: "https://www.planetminecraft.com/mod/alpha-forge-1-12-2-kether-4-0/"
     - Lot's Of Steves: "https://www.planetminecraft.com/mod/forge18kczykus-pack/"
@@ -34,7 +35,7 @@ navbar-links:
     - Bismuth Crystals: "bismuth_crystals"
     - Copper Sulfate Crystals: "copper_sulfate_crystals"
     - Rings: "rings"
-  My github: "https://github.com/Krevik"
+  Kathairis Dev Team: "kath_dev_team"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - GitHub Pages: "https://pages.github.com/"
