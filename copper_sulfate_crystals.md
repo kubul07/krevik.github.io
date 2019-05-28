@@ -9,7 +9,7 @@ use-site-title: true
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: center;
+  float: left;
   width: 180px;
 }
 
@@ -49,6 +49,14 @@ div.desc {
   <div class="desc">Crystals grown on a piece of rock</div>
 </div>
 
+<style>
+div.any {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: center;
+  width: 180px;
+}
+</style>
 ---
 Copper(II) Sulfate(VI) crystals are pretty easy to make. Even without access to reagents. You can made them using old copper wires
 (from electronics), sulfuric acid (you can easily buy it at gas station as accumulators acid), and hydrogen peroxide
