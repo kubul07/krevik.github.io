@@ -44,7 +44,7 @@ div.desc {
 </html>
 ---
 Finally seems like I have learned something about casting rings. This one looks... better than previous ones.
----
+
 <html>
 <head>
 <style>
