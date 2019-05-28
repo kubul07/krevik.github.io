@@ -58,6 +58,8 @@ div.any {
 }
 </style>
 ---
+<div class="any">
 Copper(II) Sulfate(VI) crystals are pretty easy to make. Even without access to reagents. You can made them using old copper wires
 (from electronics), sulfuric acid (you can easily buy it at gas station as accumulators acid), and hydrogen peroxide
  (available in every pharmacy). You can grow both polycrystals or one huge monocrystal.
+ </div>
