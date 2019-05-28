@@ -24,11 +24,17 @@ description: Is this my site?
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Java Projects:
+    - Exp Ore: "https://www.planetminecraft.com/mod/1-13-2-exp-ore-block-mod/"
+    - Kathairis: "https://www.planetminecraft.com/mod/alpha-forge-1-12-2-kether-4-0/"
+    - Lot's Of Steves: "https://www.planetminecraft.com/mod/forge18kczykus-pack/"
+    - The Real Kether: "https://www.planetminecraft.com/mod/alphaforgethe-real-kether/"
+    - Magic Lands Mod: "https://www.planetminecraft.com/mod/forge-magic-lands-mod-kether-20/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Java Projects: "java_projects"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
