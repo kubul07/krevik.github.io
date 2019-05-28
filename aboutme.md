@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Krzysztof Walczak. I have the following qualities:
+My name is Krzysztof Walczak and I am interested in basically two things:
 
-- I do not rock a great moustache
-- I'm extremely loyal to my family
+- Java programming (especially minecraft)
+- Chemistry (all of it)
 
 What else do you need?
 
