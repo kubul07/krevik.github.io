@@ -51,10 +51,7 @@ div.desc {
 
 <style>
 div.any {
-  margin: 5px;
-  border: 1px solid #ccc;
   float: center;
-  width: 180px;
 }
 </style>
 ---
