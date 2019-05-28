@@ -32,7 +32,7 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
+  <a target="_blank" href="1.jpg">
     <img src="/img/1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
