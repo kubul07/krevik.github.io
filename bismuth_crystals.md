@@ -32,7 +32,7 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="5.jpg">
+  <a target="_blank" href="https://krevik.github.io/img/crystals/5.jpg">
     <img src="/img/crystals/5.jpg" alt="Bismuth Crystals" width="600" height="400">
   </a>
   <div class="desc">What a nice chunk!</div>
