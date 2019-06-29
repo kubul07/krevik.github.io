@@ -34,12 +34,12 @@
           <entry key="iml" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="4" />
+          <entry key="js" value="5" />
           <entry key="lock" value="1" />
           <entry key="map" value="1" />
           <entry key="md" value="31" />
           <entry key="xml" value="10" />
-          <entry key="yml" value="16" />
+          <entry key="yml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -48,44 +48,44 @@
           <entry key="HTML" value="22" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="4" />
-          <entry key="JavaScript" value="4" />
+          <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="41" />
           <entry key="XML" value="10" />
-          <entry key="YAML" value="16" />
+          <entry key="YAML" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="12" />
+          <entry key="html" value="14" />
           <entry key="md" value="3189" />
-          <entry key="yml" value="611" />
+          <entry key="yml" value="612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="14" />
           <entry key="PLAIN_TEXT" value="3189" />
-          <entry key="YAML" value="611" />
+          <entry key="YAML" value="612" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-first-post.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/kath_dev_team.md" />
         <option value="$PROJECT_DIR$/copper_sulfate_crystals.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-28-finally-have-some-time.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -269,6 +269,11 @@
             <path>
               <item name="krevik.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="krevik.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="krevik.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="krevik.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="371" column="39" selection-start-line="371" selection-start-column="39" selection-end-line="371" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -541,10 +539,17 @@
     <entry file="file://$PROJECT_DIR$/google694fcadd1cd76a20.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="632">
+          <caret line="371" column="39" selection-start-line="371" selection-start-column="39" selection-end-line="371" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -555,10 +560,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="102">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
