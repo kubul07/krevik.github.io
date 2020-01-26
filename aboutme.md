@@ -10,7 +10,7 @@ My name is Krzysztof Walczak and I am interested in basically two things:
 - Chemistry (all of it)
 
 What else do you need?
-
+My e-mail? Here you are: kczyku.kw@gmail.com
 ### My history
 
 Nothing Interesting to see here...
