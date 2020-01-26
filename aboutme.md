@@ -11,6 +11,7 @@ My name is Krzysztof Walczak and I am interested in basically two things:
 
 What else do you need?
 My e-mail? Here you are: kczyku.kw@gmail.com
+My second e-mail? krzysztof.walczak.kw.615@gmail.com
 ### My history
 
 Nothing Interesting to see here...
