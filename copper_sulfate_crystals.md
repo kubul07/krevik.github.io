@@ -36,13 +36,6 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="https://krevik.github.io/img/crystals/1.jpg">
-    <img src="/img/crystals/1.jpg" alt="Copper(II) Sulfate(VI) Crystals" width="600" height="400">
-  </a>
-  <div class="desc">These are made from old copper wires, that's why there are slightly darker than standard coppper sulfate crystals</div>
-</div>
-
-<div class="gallery">
   <a target="_blank" href="https://krevik.github.io/img/crystals/2.jpg">
     <img src="/img/crystals/2.jpg" alt="Copper(II) Sulfate(VI) Crystals" width="600" height="400">
   </a>
