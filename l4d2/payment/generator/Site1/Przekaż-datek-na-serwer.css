@@ -55,7 +55,7 @@
     margin-left: 230px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 110px;
+  min-height: 118px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -63,7 +63,7 @@
   border-style: none none solid;
   font-size: 1.875rem;
   align-self: center;
-  margin: 0 auto;
+  margin: 4px auto 0;
   padding: 0;
 }
 
@@ -86,7 +86,7 @@
   border-style: none none solid;
   font-size: 1.875rem;
   align-self: center;
-  margin: -60px auto 10px;
+  margin: -60px auto 14px;
   padding: 0;
 }
 
