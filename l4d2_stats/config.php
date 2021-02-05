@@ -9,11 +9,11 @@ Configuration file - "config.php"
 */
 
 // MySQL information for L4D Stats DB
-$mysql_server = "127.0.0.1";
-$mysql_db = "l4dstats";
-$mysql_user = "l4d";
-$mysql_password = "l4d";
-$mysql_tableprefix = "";
+$mysql_server = "80.72.41.158";
+$mysql_db = "db_20329";
+$mysql_user = "k26606_s20329";
+$mysql_password = "d8a11db8adc1";
+$mysql_tableprefix = "db_20329";
 
 // MySQL information for IP to Country DB
 // Fill this information only if a separate database is used
@@ -24,7 +24,7 @@ $mysql_ip2c_password = "";
 $mysql_ip2c_tableprefix = "";
 
 // Heading for the stats page.
-$site_name = "YOUR SITE NAME HERE";
+$site_name = "Kether Stats";
 
 // Game server address (adds a Steam connection link over the site name)
 // Multiple game server addresses supported (just write multiple configurations and use the correct syntax for each of them)
