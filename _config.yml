@@ -40,6 +40,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - GitHub Pages: "https://pages.github.com/"
+  Left 4 Dead 2:
+    - Server Kether: "https://krevik.github.io/kether/index.html"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
