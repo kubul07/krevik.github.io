@@ -38,7 +38,7 @@ function toCommunityID($id)
 	</head>
 
 	<body>
-		<h1 class="title"><a href="chat_log.php">CHAT LOG</a></h1>
+		<h1 class="title"><a href="index.php">CHAT LOG</a></h1>
 
 		<div class="searchBox">
 			<form class="example" action="" method="post"><input class="searchInput" id="search" name="search" style="color:white" type="text" placeholder="Search...">
