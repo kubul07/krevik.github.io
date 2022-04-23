@@ -86,6 +86,10 @@
 		width: 80rem;
 	}
 
+	.container-bg1{
+		background-image: url(../../images/bg.jpg);
+	}
+
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
@@ -1700,6 +1704,11 @@
 		font-size: 1.35rem;
 	}
 
+	h3-white{
+		font-size: 1.35rem;
+		color: #f7f7f7;
+	}
+
 	h4 {
 		font-size: 1.1rem;
 	}
@@ -1772,6 +1781,14 @@
 		text-align: center;
 	}
 
+	.align-center-bg1 {
+		text-align: center;
+		color: #ffffff;
+		background-image: url(../../images/l4d2/77360.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
 	.align-right {
 		text-align: right;
 	}
@@ -1806,6 +1823,10 @@
 	}
 
 /* Box */
+
+	.box-bg1{
+		background-image: url(../../images/bg.jpg);
+	}
 
 	.box {
 		margin-bottom: 2rem;
