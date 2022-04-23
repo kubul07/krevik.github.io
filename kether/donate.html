@@ -33,63 +33,57 @@
 				</ul>
 			</nav>
 
-		<!-- One -->
-			<section id="One" class="wrapper style3">
-				<div class="inner">
-					<header class="align-center">
-						<h2>Donate the Krevik. Emmm Donate the server*</h2>
-					</header>
-				</div>
-			</section>
-
-		<!-- Two -->
-				<div id="main" class="container">
-					<div class="row 200%">
-						<div class="6u 12u$(medium)">
-							<ul class="actions">
-								<h3><b>PayPal</b></h3>
-								<form action="https://liveserver.pl/pay.php?method=paypal" method="post" target="_blank">
-									<input type="hidden" name="lvs_client_id" value="26606"/> <!-- ID klienta = 1 (ZMIEŃ)-->
-									<input type="hidden" name="api"/>
-									<label for="quantity">Amount:</label>
-									<input type="number" name="lvs_o_amount" value="20"/> <!-- Kwota = 10zł (ZMIEŃ)-->
-									<input type="submit" name="lvs_o_submit" value="Send"/>
-								</form>
-							</ul>
-							<ul class="actions">
-								<h3><b>PSC</b></h3>
-								<form action="https://liveserver.pl/pay.php?method=psc" method="post" target="_blank">
-									<input type="hidden" name="lvs_client_id" value="26606"/> <!-- ID klienta = 1 (ZMIEŃ)-->
-									<input type="hidden" name="api"/>
-									<label for="quantity">Amount:</label>
-									<input type="number" name="lvs_o_amount" value="20"/> <!-- Kwota = 10zł (ZMIEŃ)-->
-									<input type="submit" name="lvs_o_submit" value="Send"/>
-								</form>								
-							</ul>
-						</div>
-						<div class="6u$ 12u$(medium)">
-							<!-- Text stuff -->
+				<article>
+					<div class="inner">
+						<div class="row 200%">
+							<div class="6u 12u$(medium)">
 								<ul class="actions">
-									<h3><b>Przelewy online</b></h3>
-									<form action="https://liveserver.pl/pay.php?method=online" method="post" target="_blank">
+									<h3><b>PayPal</b></h3>
+									<form action="https://liveserver.pl/pay.php?method=paypal" method="post" target="_blank">
 										<input type="hidden" name="lvs_client_id" value="26606"/> <!-- ID klienta = 1 (ZMIEŃ)-->
 										<input type="hidden" name="api"/>
 										<label for="quantity">Amount:</label>
 										<input type="number" name="lvs_o_amount" value="20"/> <!-- Kwota = 10zł (ZMIEŃ)-->
 										<input type="submit" name="lvs_o_submit" value="Send"/>
-									</form>									
+									</form>
 								</ul>
+							</div>
+							<div class="6u$ 12u$(medium)">
+								<!-- Text stuff -->
+									<ul class="actions">
+										<h3><b>Przelewy online</b></h3>
+										<form action="https://liveserver.pl/pay.php?method=online" method="post" target="_blank">
+											<input type="hidden" name="lvs_client_id" value="26606"/> <!-- ID klienta = 1 (ZMIEŃ)-->
+											<input type="hidden" name="api"/>
+											<label for="quantity">Amount:</label>
+											<input type="number" name="lvs_o_amount" value="20"/> <!-- Kwota = 10zł (ZMIEŃ)-->
+											<input type="submit" name="lvs_o_submit" value="Send"/>
+										</form>									
+									</ul>
+							</div>
 						</div>
+						<ul class="actions">
+							<h3><b>PSC</b></h3>
+							<form action="https://liveserver.pl/pay.php?method=psc" method="post" target="_blank">
+								<input type="hidden" name="lvs_client_id" value="26606"/> <!-- ID klienta = 1 (ZMIEŃ)-->
+								<input type="hidden" name="api"/>
+								<label for="quantity">Amount:</label>
+								<input type="number" name="lvs_o_amount" value="20"/> <!-- Kwota = 10zł (ZMIEŃ)-->
+								<input type="submit" name="lvs_o_submit" value="Send"/>
+							</form>								
+						</ul>
 					</div>
-				</div>
+				</article>
 
 		<!-- Footer -->
-			<footer id="footer">
-				<div class="copyright">
-					&copy; Hielo by TEMPLATED. Untitled. All rights reserved.
-				</div>
-				<a href="https://discord.gg/5Pgqt5fc5N" class="fab fa-discord"></a>
-			</footer>
+		<footer id="footer">
+			<a href="https://liveserver.pl"><img src="https://liveserver.pl/tracker.php?serviceid=25728" /></a>
+			<p></p>
+			<a href="https://discord.gg/5Pgqt5fc5N" class="fab fa-discord"></a>
+			<div class="copyright">
+				&copy; Hielo by TEMPLATED. Untitled. All rights reserved.
+			</div>
+		</footer>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
